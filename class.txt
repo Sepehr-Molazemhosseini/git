@@ -1,0 +1,2 @@
+This class is about git.
+I hope you are enjoying it.
